@@ -1,0 +1,16 @@
+@import './variable.scss';
+
+.canvas {
+    height: calc(100vh - 40px);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: rgb(245, 245, 234);
+
+}
+
+canvas {
+    
+    border: 1px solid rgb(36, 35, 35);
+    background-color: rgb(233, 233, 224);
+}
